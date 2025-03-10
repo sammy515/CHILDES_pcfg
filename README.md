@@ -1,6 +1,6 @@
 # CHILDES_pcfg
 
-Modified CHILDES corpora for an educational exercise using [https://www.nltk.org/](https://www.nltk.org/))) to induce probablistic context free grammars from caretaker speech and then parse child speech.
+Modified CHILDES corpora for an educational exercise using [https://www.nltk.org/](https://www.nltk.org/) to induce probablistic context free grammars from caretaker speech and then parse child speech.
 
 Contains corpora of speech transcripts from two longitudinal studies: **Peter** ([Bloom et al. 1974](https://childes.talkbank.org/access/Eng-NA/Bloom.html)) and **Laura** ([Braunwald 1971](https://childes.talkbank.org/access/Eng-NA/Braunwald.html)). Corpora are arranged by age of the child and 
 
